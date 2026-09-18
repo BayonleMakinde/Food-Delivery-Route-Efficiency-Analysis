@@ -218,7 +218,7 @@ Use the following format as a guide:
 >
 > Full analysis: [Link]
 >
-> @[YOUR_HANDLE] #dataforgechallenge
+> Tag @bayyoo_ #dataforgechallenge
 
 ---
 
