@@ -185,6 +185,8 @@ Your post can include:
 - A short summary of your findings
 - A link to your GitHub repository, notebook, dashboard, or portfolio
 
+**Submission Deadline is 20th September,2026**
+
 ### Step 3 — Tag and Hashtag
 
 In your X post:
